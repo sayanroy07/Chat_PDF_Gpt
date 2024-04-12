@@ -20,7 +20,7 @@ with st.sidebar:
     background_image = """
             <style>
             [data-testid="stAppViewContainer"] > .main {
-             background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b1/Tata_Consultancy_Services_Logo.svg");
+             background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/cb/Sumatra_PDF_logo.svg");
              background-size: 17vw 20vh;  # This sets the size to cover 20% of the viewport width and height
              background-position: center;  
              background-repeat: no-repeat;
