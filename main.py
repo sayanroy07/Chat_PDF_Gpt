@@ -12,7 +12,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.llms import OpenAI
 from langchain.chains.question_answering import load_qa_chain
-os.environ["OPENAI_API_KEY"]="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"
+os.environ["OPENAI_API_KEY"]="XXXXXXXXX"
 
 #Sidebar Details
 with st.sidebar:
