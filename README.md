@@ -1,5 +1,6 @@
 # Chat_PDF_Gpt
-This repository has all details to create an application using Streamlit with LLM &amp; importing external PDFs.
+This repository has all details to create an application using Streamlit with LLM &amp; importing external PDFs. 
+This is basically a RAG implementation, where RAG stands for Retreival Augmented Generation. 
 All you need to do is bring in any PDF file, & with the gpt 3.5 turbo model we can do question/answering.
 Now, lets talk about the process flow:
   - import any pdf file & read the content, keep as text tokens/documents
